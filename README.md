@@ -1,16 +1,25 @@
-## Hi there 👋
+# VaLo's Personal Site
 
-<!--
-**thevalo/thevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A minimal, performance-first personal site built with **0 CSS | 0 JS | 100% HTML**  
+> Motivated by curiosity, low LCP & TBT, and a philosophy of simplicity and observability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack
+
+| Area     | Tech                                               |
+| -------- | ------------------------------------------------- |
+| Frontend | HTML (yes), JavaScript, Vue, React, Svelte        |
+| Backend  | PHP (Laravel), SQL, Python                         |
+| Other    | Cybersecurity emphasis, systems thinker, problem solver, V12s (or 4-cyl turbos), avid radionuclide aficionado |
+
+---
+
+## 💼 Projects
+
+- **MechanX** <sup>Laravel + Vue.js</sup> — End-to-end car workshop management app  
+- **EvyATOM** <sup>ESP32</sup> — IoT attendance system with real-time presence detection  
+- **Drug Half Life** <sup>C#</sup> — Pharmacokinetics calculator for biological half-life  
+
+```bash
+$ git clone thevalo/projects && make magic
