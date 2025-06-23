@@ -20,7 +20,7 @@
 - **MechanX** <sup>Laravel + Vue.js</sup> — End-to-end car workshop management app  
 - **EvyATOM** <sup>ESP32</sup> — IoT attendance system with real-time presence detection  
 - **Drug Half Life** <sup>C#</sup> — Pharmacokinetics calculator for biological half-life
-- **LabX** <sup>Laravel + Vue.js</sup> - State-of-the-art biological laboratory management app  
+- **LabX** <sup>Laravel + Vue.js</sup> - State-of-the-art multi-laboratory management app
 
 ```bash
 $ git clone thevalo/projects && make magic
